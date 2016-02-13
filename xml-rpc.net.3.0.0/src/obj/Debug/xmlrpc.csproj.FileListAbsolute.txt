@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\CookComputing.XmlRpcV2.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.3.0.0\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.3.0.0\bin\CookComputing.XmlRpcV2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.3.0.0\src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.3.0.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.3.0.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb

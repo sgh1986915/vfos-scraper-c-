@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.2.5.0\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.2.5.0\bin\CookComputing.XmlRpcV2.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.2.5.0\src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.2.5.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\OrderProcessor\xml-rpc.net.2.5.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb
+E:\VFOS\xml-rpc.net.2.5.0\bin\CookComputing.XmlRpcV2.dll
+E:\VFOS\xml-rpc.net.2.5.0\bin\CookComputing.XmlRpcV2.pdb
+E:\VFOS\xml-rpc.net.2.5.0\src\obj\Debug\ResolveAssemblyReference.cache
+E:\VFOS\xml-rpc.net.2.5.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+E:\VFOS\xml-rpc.net.2.5.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb
+D:\max\VFOS\xml-rpc.net.2.5.0\src\obj\Debug\xmlrpc.csprojResolveAssemblyReference.cache
+D:\max\VFOS\xml-rpc.net.2.5.0\src\obj\Debug\CookComputing.XmlRpcV2.dll
+D:\max\VFOS\xml-rpc.net.2.5.0\src\obj\Debug\CookComputing.XmlRpcV2.pdb

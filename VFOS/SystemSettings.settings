@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VFPO" GeneratedClassName="SystemSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="USERNAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="PASSWORD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">+UIt7ZQRqZvMYMeCzUT1MWhEgf8TA2DLdPPoMPws0yo=</Value>
+    </Setting>
+    <Setting Name="STOREID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STORE1</Value>
+    </Setting>
+    <Setting Name="XMLRPCAPIURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.beautyeducationdirectory.com/api/index.php</Value>
+    </Setting>
+    <Setting Name="STORESECURITYKEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WkVNVUIwWFdBOVAzRkxQQ1kyMERTVE9SRTE=</Value>
+    </Setting>
+    <Setting Name="PRINTERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PRINTNOCOPIES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DOWNLOADINTERVAL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CONFIGURED" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PRINTTEMPLATE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="DECRYPTKEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WkVNVUIwWFdBOVAzRkxQQ1kyMERTVE9SRTE=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

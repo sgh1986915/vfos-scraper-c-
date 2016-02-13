@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameSilverlightClient.dll
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameSilverlightClient.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\AppManifest.xaml
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameSilverlightClient.xap
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameSilverlightClientTestPage.html
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\App.g.i.cs
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\MainPage.g.i.cs
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\StateNameSilverlightClient.g.resources
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\StateNameSilverlightClient.dll
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\StateNameSilverlightClient.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameSilverlightClient\obj\Debug\XapCacheFile.xml

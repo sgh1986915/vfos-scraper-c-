@@ -1,0 +1,9 @@
+﻿ <appSettings>
+    <add key="UserName" value="admin" />   
+    <add key="Password" value="Delich3z45" />
+    <add key="StoreId" value="STORE1" />
+    <add key="XMLRPCAPIURL" value="http://www.beautyeducationdirectory.com/api/index.php" />
+    <add key="StoreSecurityKey" value="WkVNVUIwWFdBOVAzRkxQQ1kyMERTVE9SRTE=" />
+    <add key="PrinterName" value="Canon iP2700 series" />
+    <add key="PrinterCopiesCount" value="1" />
+  </appSettings>

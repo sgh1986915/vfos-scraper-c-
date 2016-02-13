@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\BettyAsyncApp.exe
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\BettyAsyncApp.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\AsyncBettyApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\AsyncBettyApplication\obj\Debug\AsyncBettyApplication.Form1.resources
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\AsyncBettyApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\AsyncBettyApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\AsyncBettyApplication\obj\Debug\BettyAsyncApp.exe
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\AsyncBettyApplication\obj\Debug\BettyAsyncApp.pdb

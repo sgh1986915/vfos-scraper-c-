@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\MathApp.exe
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\MathApp.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\MathApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\MathApp\obj\Debug\MathApp.Form1.resources
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\MathApp\obj\Debug\ResGen.read.1.tlog
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\MathApp\obj\Debug\ResGen.write.1.tlog
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\MathApp\obj\Debug\MathApp.exe
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\MathApp\obj\Debug\MathApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameServer.exe.config
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameServer.exe
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\StateNameServer.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameServer\server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameServer\server\obj\Debug\StateNameServer.exe
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\samples\StateNameServer\server\obj\Debug\StateNameServer.pdb

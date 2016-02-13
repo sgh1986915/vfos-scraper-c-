@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\CookComputing.XmlRpcSilverlight.dll
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\bin\CookComputing.XmlRpcSilverlight.pdb
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\xmlrpcsilverlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\xmlrpcsilverlight\obj\Debug\CookComputing.XmlRpcSilverlight.dll
+C:\Users\Admin\Documents\xml-rpc.net.3.0.0.270-snapshot\xml-rpc.net.3.0.0\xmlrpcsilverlight\obj\Debug\CookComputing.XmlRpcSilverlight.pdb
